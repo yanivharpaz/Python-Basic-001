@@ -1,0 +1,294 @@
+symbol,company_name
+AAL,american airlines
+AAPL,apple
+ABC,abc
+ABT,abbott
+ACA,aca
+ACC,acc
+ACN,accenture
+ADBE,adobe
+ADSK,autodesk
+AG,ag
+AIR,airbus
+ALBO,lehman
+ALLE,lego
+ALTA,alta
+AMC,amc
+AMC,amc entertainment
+AMD,amd
+AMTX,mets
+AMZN,alexa
+AMZN,amazon
+ANDA,anda
+AOL,aol
+AP,ap
+API,api
+APO,apollo
+APT,alpha
+ASA,asa
+ATC,oecd
+ATVI,activision
+AVD,mercado
+AVK,dot com
+AXP,american express
+AZN,astrazeneca
+B,baylor
+BA,boeing
+BABA,alibaba
+BAC,bank of america
+BB,blackberry
+BHLB,berkshire
+BKC,burger king
+BKT,broncos
+BLK,blackrock
+BNED,barnes
+BP,bp
+BRK-A,berkshire hathaway
+BRK-A,berkshire hathaway's
+BRKS,brooks brothers
+BSC,bear stearns
+BSM,blackstone
+BSRR,sierra
+BTT,bt
+BURL,burlington
+BWA,warner
+BWB,bridgewater
+BWB,bridgewater associates
+C,citi
+CAC,cac
+CARS,carson
+CAT,caterpillar
+CB,cb
+CDC,cdc
+CDOR,cdo
+CFMS,coors
+CLVS,lincoln
+CLX,clorox
+CMCSA,coca cola
+CMCSA,comcast
+CMG,chipotle
+CMU,cmu
+CMU,cmu group
+CNET,cnet
+CNK,cinemark
+COKE,coke
+COLM,columbia
+CP,cpr
+CPS,cps
+CRIS,chris
+CRM,salesforce
+CS,cs
+CSCO,cisco
+CSCO,cisco systems
+CUB,cubs
+CVX,chevron
+DAL,delta airlines
+DB,bundesbank
+DB,deutsche bank
+DBDR,marquis
+DELL,dell
+DFS,dfs
+DHY,credit suisse
+DIS,disney
+DIS,hulu
+DIS,pixar
+DIS,walt disney
+DKL,deloitte
+DM,dm
+DOW,dow
+EBAY,ebay
+EFX,equifax
+EGLE,eagle
+EGLE,eagles
+EIGR,iger
+ELY,callaway
+ESBK,irving
+ESNT,essen p
+ETSY,etsy
+EXPE,expedia
+FANG,fang
+FB,facebook
+FC,fc
+FCAU,chrysler
+FCAU,fiat
+FCAU,jeep
+FDX,fedex
+FNF,fidelity
+FORD,ford
+FOXA,fox
+FRBK,rubicon
+GEO,geo
+GILD,gilead sciences
+GL,gl
+GM,chevy
+GM,general motors
+GM,gm
+GOOGL,google
+GS,goldman
+GS,sachs
+GSBD,goldman sachs
+GUT,getty
+HAS,hbo
+HAS,hsbc
+HCA,healthcare
+HCAP,harvard
+HD,home depot
+HON,honeywell
+HSY,hershey
+HY,yale
+IAF,bentley
+IBM,ibm
+IBTX,pentagon
+IMAX,imax
+INTC,intel
+IOSP,ios
+IRBT,irobot
+IRS,irs
+IVZ,invesco
+JSTN,justin
+JWN,nordstrom
+K,kellogg
+KHC,heinz
+KHC,kraft heinz
+KODK,eastman kodak
+KODK,kodak
+KR,kroger
+LBRDP,bryant
+LEO,leo
+LH,labcorp
+LLY,eli
+LLY,eli lilly
+LNKD,linkedin
+LOW,lowes
+LUV,southwest airlines
+M,macy
+M,macy's
+MA,mastercard
+MAAC,mercedes
+MAC,mac
+MAR,ritz
+MAT,mattel
+MBUU,malibu
+MCD,mcdonald
+MCD,mcdonalds
+MCD,mcdonald's
+MCO,moody's
+MDT,medtronic
+MERC,merc
+MITT,mitt
+MKC,mccormick
+MLR,miller
+MON,monsanto
+MP,mps
+MRK,merck
+MRLN,marlins
+MRVL,avengers
+MS,morgan
+MS,morgan stanley
+MSFT,costco
+MSFT,microsoft
+MSI,motorola
+NBA,nba
+NDAQ,nasdaq
+NEM,newmont
+NES,nes
+NFLX,netflix
+NGVT,geico
+NKE,nike
+NKLA,nikola
+NMR,nomura
+NNDM,nano
+NOC,northrop
+NP,np
+NSA,nsa
+NURO,neuro
+NVDA,nvidia
+NVS,novartis
+NYT,new york times
+OFLX,omega
+OPGN,opec
+OPRX,pimco
+ORCL,oracle
+OSPN,espn
+OXM,oxford
+PB,popeyes
+PBI,pitney bowes
+PENN,penn
+PENN,penn financial
+PENN,penn financial group
+PEP,pepsi
+PFE,fisa
+PFE,pfizer
+PFSW,fbi
+PG,gillette
+PG,procter
+PGRE,paramount
+PINS,pinterest
+PM,morris
+PM,philip morris
+PPD,dc
+PS,ps
+QCOM,qualcomm
+RACE,ferrari
+RCA,rca
+RCL,royal caribbean
+REGN,regeneron
+RTX,raytheon
+RUBY,ruby
+RVLV,revlon
+RYAAY,ryanair
+SBAC,sba
+SBUX,starbucks
+SIRI,siri
+SKS,saks
+SLB,schlumberger
+SNY,sanofi
+SONO,sonos
+SONY,sony
+SPCE,virgin galactic
+SPG,simon property
+SPG,simon property group
+SPOT,spotify
+SRT,state
+SRTS,senate
+STND,davinci
+TC,tc
+TDY,teledyne
+TEAM,atlassian
+TIF,tiffany
+TRI,reuters
+TRIP,tripadvisor
+TRMK,trump
+TSLA,tesla
+TSLA,tesla tesla
+TUP,tupperware
+TWOU,un
+TWTR,twitter
+UAL,united
+UAL,united airlines
+UFPT,pelosi
+UL,unilever
+V,visa
+VC,vc
+VIAC,viacom
+VOD,vodafone
+VSEC,seo
+VST,vista
+VTR,venta
+VZ,verizon
+WAFDP,honda
+WBA,walgreens
+WEN,wendy's
+WFC,wells fargo
+WMB,wilson
+WMT,asda
+WMT,wal mart
+WMT,wal mart's
+WMT,walmart
+WWE,wwe
+XLNX,xilinx
+XOM,exxon
+XOM,exxon mobil
+XRAY,dyson
+YORW,yorker
+ZEN,zen
